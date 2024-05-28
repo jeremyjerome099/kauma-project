@@ -1,0 +1,31 @@
+
+.about {
+    
+    text-align: center;
+    color: black;
+    background-color: azure;
+
+
+   .header{
+
+    margin-top: 10px;
+    text-decoration: underline; 
+    display: inline-flex; 
+  
+  }
+  .header span {
+    color: green;
+    font-size: 150px;
+    text-emphasis: none;
+    text-decoration: none;
+  }
+  
+  .detail {
+    margin-bottom: 80px;
+    display: flex;
+    justify-content: space-between;
+    padding: 200px 200px;
+  }
+  
+  }
+  
